@@ -2,7 +2,7 @@
 
 ## Create Contact
 
-Endpoint: POST /api/contacs
+Endpoint: POST /api/contacts
 
 Request Header:
 
